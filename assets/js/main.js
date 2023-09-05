@@ -27,3 +27,9 @@ pokeApi.getPokemons().then((pokemonst = []) => {
 
 
 })
+
+function testeAlert (){
+
+alert ('testando o alerta do javaScript');
+
+}
